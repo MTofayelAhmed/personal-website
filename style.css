@@ -1,0 +1,42 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin:0;
+}
+h1 {font-size: 40px;}
+span {
+  color: brown;
+  font-weight: bolder;
+}
+
+
+
+.half-width {
+  width: 40%;
+  margin: 2%;
+  padding: 2%;
+  float: left;
+ 
+  
+}
+
+#first-anchor {
+width: 10%;
+background-color: brown;
+text-decoration: none;
+color: white;
+padding-right: 20px;
+padding-left: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+border-radius: 5px;}
+
+.half-width img {
+  width: 75%;
+  margin-right: 20px;
+}
+.intro-part{
+  background-image: url("/personal-website/biography-bg.png");
+}
+section{
+  height: 500px;
+}
